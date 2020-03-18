@@ -1,0 +1,6 @@
+package APICOUNTRY;
+
+public interface CheckCountry
+{
+    boolean test(Country c);
+}
